@@ -1,5 +1,31 @@
 # Getting Started with Create React App
 
+This is a Simple React BAsed Calender app , with simple approach and using simple concept of the React features .
+  This Project Code is available on Github and 
+  the live deploy of the react Calender is available on Netlify.
+
+  THis Project have the simple adding and deleting of the events 
+  One can add the event on the current date and
+  also able to delete the event .
+
+  This React is an assignment based application recieved throung Internshala.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
